@@ -116,4 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact Fahrettin Ege Bilge at [e.egebilge@gmail.com].
 
 ---
+<img width="578" alt="Screenshot 2024-05-27 at 18 56 57" src="https://github.com/FEgebilge/HomeHarmony-Light-Control-System/assets/93092469/08191c1a-67c3-4033-9336-d372e69871c0">
+
+
 
